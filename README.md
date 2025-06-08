@@ -15,11 +15,11 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning: **Full stack web devlopment*
-- 💬 Ask me about: **Python, JavaScript, Web Dev, and react!**
+- 🌱 I’m currently learning: **Full stack web development**
+- 💬 Ask me about: **Python, JavaScript, Web Dev, and React!**
 - 🚀 I love building: **cool web apps & applications**
 - 😄 Pronouns: **He/Him**
-- 📫 How to reach me: [Email](anuj.mayekar001@gmail.com)
+- 📫 How to reach me: [Email](mailto:anuj.mayekar001@gmail.com)
 
 ---
 
@@ -41,12 +41,13 @@
 
 ## 🛠️ Projects
 
-- [logic-length(Project1)](https://github.com/ashok280705/logic-length)  
-  This is an online gaming platform an mini project devloped in the react+nodejs+express+firebase in this you will be able to play games on a single platform
-- [Netflix clone (Project 2)](https://github.com/ashok280705/Netflix-Clone-Resposive)  
-  It is an dummy clone as frontend of the netflix
--[Judicare (Project 3)](https://github.com/ashok280705/judicare)  
-  This is an law and legal assistance chat bot and a dataAnalysis dashboard for the judge and has various other funcnality like case tracking case summarizer and much more this app is been devloped in the react+nodejs+express+mongodbAtlas
+- [logic-length (Project 1)](https://github.com/ashok280705/logic-length)  
+  An online gaming platform (mini project) developed with React, Node.js, Express, and Firebase. Play multiple games on a single platform.
+- [Netflix Clone (Project 2)](https://github.com/ashok280705/Netflix-Clone-Resposive)  
+  A dummy frontend clone of Netflix.
+- [Judicare (Project 3)](https://github.com/ashok280705/judicare)  
+  A law and legal assistance chatbot with a data analysis dashboard for judges and various functionalities like case tracking, summarization, and more. Developed with React, Node.js, Express, and MongoDB Atlas.
+
 ---
 
 ## ✨ Fun Facts
