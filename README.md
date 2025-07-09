@@ -22,7 +22,7 @@
 - 💬 Ask me about **React, Node.js, Express, MongoDB, JavaScript**
 - ⚒️ Tools of trade: **VS Code, Git, Postman, Firebase, MongoDB Atlas**
 - 🌱 Always learning something new in **Tech, Productivity & Design**
-- 📫 Connect with me: [Email](mailto:anuj.mayekar001@gmail.com)
+- 📫 Reach me at: [anuj.mayekar001@gmail.com](mailto:anuj.mayekar001@gmail.com)
 
 ---
 
@@ -34,12 +34,14 @@
 
 ---
 
-## 🔥 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashok280705&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=ashok280705&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashok280705&theme=react-dark" alt="GitHub Activity Graph" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashok280705&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashok280705&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -50,7 +52,7 @@
 > A multi-game online platform built with **React**, **Express**, **Firebase**, and **Node.js**.
 
 ### 📺 [Netflix Clone](https://github.com/ashok280705/Netflix-Clone-Resposive)
-> A sleek, responsive frontend replica of Netflix with **HTML**, **CSS**, and **JavaScript**.
+> A sleek, responsive frontend replica of Netflix using **HTML**, **CSS**, and **JavaScript**.
 
 ### ⚖️ [Judicare](https://github.com/ashok280705/judicare)
 > A legal assistance chatbot + dashboard for judges with case tracking, summarization, and analytics using **React**, **Node**, **Express**, and **MongoDB Atlas**.
@@ -59,7 +61,7 @@
 
 ## ✨ Fun Facts
 
-- 🧩 I enjoy solving logic puzzles and competitive programming challenges.
+- 🧩 I love solving logic puzzles and competitive programming challenges.
 - 🎨 I occasionally dive into UI/UX design and digital art.
 - 🌐 I thrive on building things that live on the internet.
 
@@ -70,5 +72,5 @@
 </p>
 
 <p align="center">
-  <b>Thanks for stopping by! Let's connect 🙌</b>
+  <b>Thanks for visiting my profile 🙌</b>
 </p>
